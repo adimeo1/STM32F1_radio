@@ -1,0 +1,4 @@
+core_cm3.h:1511:22:__NVIC_EnableIRQ	16	static
+encoder.c:14:6:encoder_init	8	static
+encoder.c:93:33:EXTI9_5_IRQHandler	16	static
+encoder.c:107:33:EXTI15_10_IRQHandler	16	static

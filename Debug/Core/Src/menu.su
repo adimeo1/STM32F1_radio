@@ -1,0 +1,7 @@
+menu.c:46:7:menu_refresh	24	static
+menu.c:78:10:menu_get_index	24	static
+menu.c:94:10:menu_get_level	24	static
+menu.c:109:7:menu_next	8	static
+menu.c:131:7:menu_prev	8	static
+menu.c:151:7:menu_enter	8	static
+menu.c:181:7:menu_back	8	static

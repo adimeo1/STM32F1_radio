@@ -1,0 +1,15 @@
+menu_callbacks.c:38:6:rmf_fm_func	8	static
+menu_callbacks.c:43:6:radio_krakow_func	8	static
+menu_callbacks.c:48:6:radio_zet_func	8	static
+menu_callbacks.c:53:6:radio_plus_func	8	static
+menu_callbacks.c:58:6:radio_program1_func	8	static
+menu_callbacks.c:63:6:radio_program3_func	8	static
+menu_callbacks.c:69:6:glosnosc_6_func	8	static
+menu_callbacks.c:74:6:glosnosc_20_func	8	static
+menu_callbacks.c:79:6:glosnosc_30_func	8	static
+menu_callbacks.c:84:6:glosnosc_50_func	8	static
+menu_callbacks.c:89:6:glosnosc_60_func	8	static
+menu_callbacks.c:94:6:glosnosc_73_func	8	static
+menu_callbacks.c:99:6:glosnosc_86_func	8	static
+menu_callbacks.c:104:6:wylacz_func	8	static
+menu_callbacks.c:109:6:wlacz_func	8	static

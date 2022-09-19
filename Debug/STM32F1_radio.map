@@ -1,0 +1,1490 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o)
+                              c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (exit)
+c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+                              c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-init.o)
+                              c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (__libc_init_array)
+c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memset.o)
+                              c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (memset)
+c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libnosys.a(_exit.o)
+                              c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+lcd_row_pos_level_1
+                    0x1               Core/Src/menu.o
+lcd_row_pos_level_2
+                    0x1               Core/Src/menu.o
+menu_index          0x1               Core/Src/menu.o
+lcd_row_pos         0x1               Core/Src/menu.o
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+ .data          0x0000000000000000        0x4 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+ .text          0x0000000000000000       0x74 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .ARM.exidx     0x0000000000000000        0x8 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .ARM.attributes
+                0x0000000000000000       0x1b c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .group         0x0000000000000000        0xc Core/Src/Fonts.o
+ .group         0x0000000000000000        0xc Core/Src/Fonts.o
+ .group         0x0000000000000000        0xc Core/Src/Fonts.o
+ .group         0x0000000000000000        0xc Core/Src/Fonts.o
+ .group         0x0000000000000000        0xc Core/Src/Fonts.o
+ .group         0x0000000000000000        0xc Core/Src/Fonts.o
+ .group         0x0000000000000000        0xc Core/Src/Fonts.o
+ .group         0x0000000000000000        0xc Core/Src/Fonts.o
+ .group         0x0000000000000000        0xc Core/Src/Fonts.o
+ .group         0x0000000000000000        0xc Core/Src/Fonts.o
+ .group         0x0000000000000000        0xc Core/Src/Fonts.o
+ .group         0x0000000000000000        0xc Core/Src/Fonts.o
+ .group         0x0000000000000000        0xc Core/Src/Fonts.o
+ .group         0x0000000000000000        0xc Core/Src/Fonts.o
+ .group         0x0000000000000000        0xc Core/Src/Fonts.o
+ .group         0x0000000000000000        0xc Core/Src/Fonts.o
+ .group         0x0000000000000000        0xc Core/Src/Fonts.o
+ .group         0x0000000000000000        0xc Core/Src/Fonts.o
+ .group         0x0000000000000000        0xc Core/Src/Fonts.o
+ .group         0x0000000000000000        0xc Core/Src/Fonts.o
+ .group         0x0000000000000000        0xc Core/Src/Fonts.o
+ .group         0x0000000000000000        0xc Core/Src/Fonts.o
+ .group         0x0000000000000000        0xc Core/Src/Fonts.o
+ .group         0x0000000000000000        0xc Core/Src/Fonts.o
+ .group         0x0000000000000000        0xc Core/Src/Fonts.o
+ .group         0x0000000000000000        0xc Core/Src/Fonts.o
+ .group         0x0000000000000000        0xc Core/Src/Fonts.o
+ .group         0x0000000000000000        0xc Core/Src/Fonts.o
+ .group         0x0000000000000000        0xc Core/Src/Fonts.o
+ .group         0x0000000000000000        0xc Core/Src/Fonts.o
+ .group         0x0000000000000000        0xc Core/Src/Fonts.o
+ .group         0x0000000000000000        0xc Core/Src/Fonts.o
+ .group         0x0000000000000000        0xc Core/Src/Fonts.o
+ .group         0x0000000000000000        0xc Core/Src/Fonts.o
+ .text          0x0000000000000000        0x0 Core/Src/Fonts.o
+ .data          0x0000000000000000        0x0 Core/Src/Fonts.o
+ .bss           0x0000000000000000        0x0 Core/Src/Fonts.o
+ .rodata.c_chFont1612
+                0x0000000000000000      0x160 Core/Src/Fonts.o
+ .rodata.c_chFont3216
+                0x0000000000000000      0x2c0 Core/Src/Fonts.o
+ .rodata.c_chBmp4016
+                0x0000000000000000       0x60 Core/Src/Fonts.o
+ .rodata.c_chSingal816
+                0x0000000000000000       0x10 Core/Src/Fonts.o
+ .rodata.c_chMsg816
+                0x0000000000000000       0x10 Core/Src/Fonts.o
+ .rodata.c_chBat816
+                0x0000000000000000       0x10 Core/Src/Fonts.o
+ .rodata.c_chBluetooth88
+                0x0000000000000000        0x8 Core/Src/Fonts.o
+ .rodata.c_chGPRS88
+                0x0000000000000000        0x8 Core/Src/Fonts.o
+ .rodata.c_chAlarm88
+                0x0000000000000000        0x8 Core/Src/Fonts.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/SSD1331.o
+ .text          0x0000000000000000        0x0 Core/Src/SSD1331.o
+ .data          0x0000000000000000        0x0 Core/Src/SSD1331.o
+ .bss           0x0000000000000000        0x0 Core/Src/SSD1331.o
+ .text.ssd1331_draw_line
+                0x0000000000000000       0xf0 Core/Src/SSD1331.o
+ .text.ssd1331_draw_v_line
+                0x0000000000000000       0x64 Core/Src/SSD1331.o
+ .text.ssd1331_draw_h_line
+                0x0000000000000000       0x64 Core/Src/SSD1331.o
+ .text.ssd1331_draw_rect
+                0x0000000000000000       0x74 Core/Src/SSD1331.o
+ .text.ssd1331_fill_rect
+                0x0000000000000000       0x7c Core/Src/SSD1331.o
+ .text.ssd1331_draw_circle
+                0x0000000000000000      0x10c Core/Src/SSD1331.o
+ .text._pow     0x0000000000000000       0x36 Core/Src/SSD1331.o
+ .text.ssd1331_display_num
+                0x0000000000000000       0xec Core/Src/SSD1331.o
+ .text.ssd1331_draw_1616char
+                0x0000000000000000       0xa0 Core/Src/SSD1331.o
+ .text.ssd1331_draw_3216char
+                0x0000000000000000       0xa0 Core/Src/SSD1331.o
+ .text.ssd1331_draw_bitmap
+                0x0000000000000000       0xa0 Core/Src/SSD1331.o
+ .debug_macro   0x0000000000000000      0xa54 Core/Src/SSD1331.o
+ .debug_macro   0x0000000000000000       0x22 Core/Src/SSD1331.o
+ .debug_macro   0x0000000000000000       0xef Core/Src/SSD1331.o
+ .debug_macro   0x0000000000000000       0x6a Core/Src/SSD1331.o
+ .debug_macro   0x0000000000000000      0x1df Core/Src/SSD1331.o
+ .debug_macro   0x0000000000000000       0x18 Core/Src/SSD1331.o
+ .debug_macro   0x0000000000000000       0x3c Core/Src/SSD1331.o
+ .debug_macro   0x0000000000000000       0x34 Core/Src/SSD1331.o
+ .debug_macro   0x0000000000000000       0x16 Core/Src/SSD1331.o
+ .debug_macro   0x0000000000000000       0x97 Core/Src/SSD1331.o
+ .debug_macro   0x0000000000000000       0xfd Core/Src/SSD1331.o
+ .debug_macro   0x0000000000000000       0x10 Core/Src/SSD1331.o
+ .debug_macro   0x0000000000000000       0x52 Core/Src/SSD1331.o
+ .debug_macro   0x0000000000000000       0x1f Core/Src/SSD1331.o
+ .debug_macro   0x0000000000000000       0x43 Core/Src/SSD1331.o
+ .debug_macro   0x0000000000000000       0x20 Core/Src/SSD1331.o
+ .debug_macro   0x0000000000000000      0x1a3 Core/Src/SSD1331.o
+ .debug_macro   0x0000000000000000       0x10 Core/Src/SSD1331.o
+ .debug_macro   0x0000000000000000       0x1c Core/Src/SSD1331.o
+ .debug_macro   0x0000000000000000       0x52 Core/Src/SSD1331.o
+ .debug_macro   0x0000000000000000       0x40 Core/Src/SSD1331.o
+ .debug_macro   0x0000000000000000       0x10 Core/Src/SSD1331.o
+ .debug_macro   0x0000000000000000       0x40 Core/Src/SSD1331.o
+ .debug_macro   0x0000000000000000       0xd7 Core/Src/SSD1331.o
+ .debug_macro   0x0000000000000000       0x1c Core/Src/SSD1331.o
+ .debug_macro   0x0000000000000000       0x3d Core/Src/SSD1331.o
+ .debug_macro   0x0000000000000000       0x16 Core/Src/SSD1331.o
+ .debug_macro   0x0000000000000000      0x145 Core/Src/SSD1331.o
+ .debug_macro   0x0000000000000000       0x22 Core/Src/SSD1331.o
+ .debug_macro   0x0000000000000000       0x28 Core/Src/SSD1331.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/encoder.o
+ .text          0x0000000000000000        0x0 Core/Src/encoder.o
+ .data          0x0000000000000000        0x0 Core/Src/encoder.o
+ .bss           0x0000000000000000        0x0 Core/Src/encoder.o
+ .debug_macro   0x0000000000000000      0xa54 Core/Src/encoder.o
+ .debug_macro   0x0000000000000000       0x2e Core/Src/encoder.o
+ .debug_macro   0x0000000000000000       0x22 Core/Src/encoder.o
+ .debug_macro   0x0000000000000000       0x22 Core/Src/encoder.o
+ .debug_macro   0x0000000000000000       0x8e Core/Src/encoder.o
+ .debug_macro   0x0000000000000000       0x51 Core/Src/encoder.o
+ .debug_macro   0x0000000000000000       0xef Core/Src/encoder.o
+ .debug_macro   0x0000000000000000       0x6a Core/Src/encoder.o
+ .debug_macro   0x0000000000000000      0x1df Core/Src/encoder.o
+ .debug_macro   0x0000000000000000       0x1c Core/Src/encoder.o
+ .debug_macro   0x0000000000000000       0x22 Core/Src/encoder.o
+ .debug_macro   0x0000000000000000       0xc3 Core/Src/encoder.o
+ .debug_macro   0x0000000000000000      0xd23 Core/Src/encoder.o
+ .debug_macro   0x0000000000000000     0xe09e Core/Src/encoder.o
+ .debug_macro   0x0000000000000000       0x43 Core/Src/encoder.o
+ .debug_macro   0x0000000000000000       0x2e Core/Src/encoder.o
+ .debug_macro   0x0000000000000000       0x46 Core/Src/encoder.o
+ .debug_macro   0x0000000000000000       0x18 Core/Src/encoder.o
+ .debug_macro   0x0000000000000000       0x3c Core/Src/encoder.o
+ .debug_macro   0x0000000000000000       0x34 Core/Src/encoder.o
+ .debug_macro   0x0000000000000000       0x16 Core/Src/encoder.o
+ .debug_macro   0x0000000000000000       0x97 Core/Src/encoder.o
+ .debug_macro   0x0000000000000000      0x32a Core/Src/encoder.o
+ .debug_macro   0x0000000000000000       0xfd Core/Src/encoder.o
+ .debug_macro   0x0000000000000000       0x10 Core/Src/encoder.o
+ .debug_macro   0x0000000000000000       0x52 Core/Src/encoder.o
+ .debug_macro   0x0000000000000000       0x1f Core/Src/encoder.o
+ .debug_macro   0x0000000000000000       0x43 Core/Src/encoder.o
+ .debug_macro   0x0000000000000000       0x20 Core/Src/encoder.o
+ .debug_macro   0x0000000000000000      0x1a3 Core/Src/encoder.o
+ .debug_macro   0x0000000000000000       0x10 Core/Src/encoder.o
+ .debug_macro   0x0000000000000000       0x1c Core/Src/encoder.o
+ .debug_macro   0x0000000000000000       0x52 Core/Src/encoder.o
+ .debug_macro   0x0000000000000000       0x40 Core/Src/encoder.o
+ .debug_macro   0x0000000000000000       0x10 Core/Src/encoder.o
+ .debug_macro   0x0000000000000000       0x40 Core/Src/encoder.o
+ .debug_macro   0x0000000000000000       0xd7 Core/Src/encoder.o
+ .debug_macro   0x0000000000000000       0x1c Core/Src/encoder.o
+ .debug_macro   0x0000000000000000       0x3d Core/Src/encoder.o
+ .debug_macro   0x0000000000000000       0x16 Core/Src/encoder.o
+ .debug_macro   0x0000000000000000      0x145 Core/Src/encoder.o
+ .debug_macro   0x0000000000000000       0x22 Core/Src/encoder.o
+ .debug_macro   0x0000000000000000       0x28 Core/Src/encoder.o
+ .debug_macro   0x0000000000000000      0x1e1 Core/Src/encoder.o
+ .debug_macro   0x0000000000000000       0x16 Core/Src/encoder.o
+ .debug_macro   0x0000000000000000       0x35 Core/Src/encoder.o
+ .debug_macro   0x0000000000000000       0x16 Core/Src/encoder.o
+ .debug_macro   0x0000000000000000       0x29 Core/Src/encoder.o
+ .debug_macro   0x0000000000000000       0x16 Core/Src/encoder.o
+ .group         0x0000000000000000        0xc Core/Src/gpio_f1.o
+ .group         0x0000000000000000        0xc Core/Src/gpio_f1.o
+ .group         0x0000000000000000        0xc Core/Src/gpio_f1.o
+ .group         0x0000000000000000        0xc Core/Src/gpio_f1.o
+ .group         0x0000000000000000        0xc Core/Src/gpio_f1.o
+ .group         0x0000000000000000        0xc Core/Src/gpio_f1.o
+ .group         0x0000000000000000        0xc Core/Src/gpio_f1.o
+ .group         0x0000000000000000        0xc Core/Src/gpio_f1.o
+ .group         0x0000000000000000        0xc Core/Src/gpio_f1.o
+ .group         0x0000000000000000        0xc Core/Src/gpio_f1.o
+ .group         0x0000000000000000        0xc Core/Src/gpio_f1.o
+ .group         0x0000000000000000        0xc Core/Src/gpio_f1.o
+ .group         0x0000000000000000        0xc Core/Src/gpio_f1.o
+ .group         0x0000000000000000        0xc Core/Src/gpio_f1.o
+ .group         0x0000000000000000        0xc Core/Src/gpio_f1.o
+ .group         0x0000000000000000        0xc Core/Src/gpio_f1.o
+ .text          0x0000000000000000        0x0 Core/Src/gpio_f1.o
+ .data          0x0000000000000000        0x0 Core/Src/gpio_f1.o
+ .bss           0x0000000000000000        0x0 Core/Src/gpio_f1.o
+ .debug_macro   0x0000000000000000      0xa54 Core/Src/gpio_f1.o
+ .debug_macro   0x0000000000000000       0x2e Core/Src/gpio_f1.o
+ .debug_macro   0x0000000000000000       0x22 Core/Src/gpio_f1.o
+ .debug_macro   0x0000000000000000       0x22 Core/Src/gpio_f1.o
+ .debug_macro   0x0000000000000000       0x8e Core/Src/gpio_f1.o
+ .debug_macro   0x0000000000000000       0x51 Core/Src/gpio_f1.o
+ .debug_macro   0x0000000000000000       0xef Core/Src/gpio_f1.o
+ .debug_macro   0x0000000000000000       0x6a Core/Src/gpio_f1.o
+ .debug_macro   0x0000000000000000      0x1df Core/Src/gpio_f1.o
+ .debug_macro   0x0000000000000000       0x1c Core/Src/gpio_f1.o
+ .debug_macro   0x0000000000000000       0x22 Core/Src/gpio_f1.o
+ .debug_macro   0x0000000000000000       0xc3 Core/Src/gpio_f1.o
+ .debug_macro   0x0000000000000000      0xd23 Core/Src/gpio_f1.o
+ .debug_macro   0x0000000000000000     0xe09e Core/Src/gpio_f1.o
+ .debug_macro   0x0000000000000000       0x43 Core/Src/gpio_f1.o
+ .debug_macro   0x0000000000000000       0x2e Core/Src/gpio_f1.o
+ .group         0x0000000000000000        0xc Core/Src/i2c.o
+ .group         0x0000000000000000        0xc Core/Src/i2c.o
+ .group         0x0000000000000000        0xc Core/Src/i2c.o
+ .group         0x0000000000000000        0xc Core/Src/i2c.o
+ .group         0x0000000000000000        0xc Core/Src/i2c.o
+ .group         0x0000000000000000        0xc Core/Src/i2c.o
+ .group         0x0000000000000000        0xc Core/Src/i2c.o
+ .group         0x0000000000000000        0xc Core/Src/i2c.o
+ .group         0x0000000000000000        0xc Core/Src/i2c.o
+ .group         0x0000000000000000        0xc Core/Src/i2c.o
+ .group         0x0000000000000000        0xc Core/Src/i2c.o
+ .group         0x0000000000000000        0xc Core/Src/i2c.o
+ .group         0x0000000000000000        0xc Core/Src/i2c.o
+ .group         0x0000000000000000        0xc Core/Src/i2c.o
+ .group         0x0000000000000000        0xc Core/Src/i2c.o
+ .group         0x0000000000000000        0xc Core/Src/i2c.o
+ .text          0x0000000000000000        0x0 Core/Src/i2c.o
+ .data          0x0000000000000000        0x0 Core/Src/i2c.o
+ .bss           0x0000000000000000        0x0 Core/Src/i2c.o
+ .debug_macro   0x0000000000000000      0xa54 Core/Src/i2c.o
+ .debug_macro   0x0000000000000000       0x2e Core/Src/i2c.o
+ .debug_macro   0x0000000000000000       0x22 Core/Src/i2c.o
+ .debug_macro   0x0000000000000000       0x22 Core/Src/i2c.o
+ .debug_macro   0x0000000000000000       0x8e Core/Src/i2c.o
+ .debug_macro   0x0000000000000000       0x51 Core/Src/i2c.o
+ .debug_macro   0x0000000000000000       0xef Core/Src/i2c.o
+ .debug_macro   0x0000000000000000       0x6a Core/Src/i2c.o
+ .debug_macro   0x0000000000000000      0x1df Core/Src/i2c.o
+ .debug_macro   0x0000000000000000       0x1c Core/Src/i2c.o
+ .debug_macro   0x0000000000000000       0x22 Core/Src/i2c.o
+ .debug_macro   0x0000000000000000       0xc3 Core/Src/i2c.o
+ .debug_macro   0x0000000000000000      0xd23 Core/Src/i2c.o
+ .debug_macro   0x0000000000000000     0xe09e Core/Src/i2c.o
+ .debug_macro   0x0000000000000000       0x43 Core/Src/i2c.o
+ .debug_macro   0x0000000000000000       0x2e Core/Src/i2c.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .text          0x0000000000000000        0x0 Core/Src/main.o
+ .data          0x0000000000000000        0x0 Core/Src/main.o
+ .bss           0x0000000000000000        0x0 Core/Src/main.o
+ .debug_macro   0x0000000000000000      0xa54 Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x2e Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x22 Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x22 Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x8e Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x51 Core/Src/main.o
+ .debug_macro   0x0000000000000000       0xef Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x6a Core/Src/main.o
+ .debug_macro   0x0000000000000000      0x1df Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x1c Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x22 Core/Src/main.o
+ .debug_macro   0x0000000000000000       0xc3 Core/Src/main.o
+ .debug_macro   0x0000000000000000      0xd23 Core/Src/main.o
+ .debug_macro   0x0000000000000000     0xe09e Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x43 Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x46 Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x18 Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x3c Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x34 Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x16 Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x97 Core/Src/main.o
+ .debug_macro   0x0000000000000000      0x32a Core/Src/main.o
+ .debug_macro   0x0000000000000000       0xfd Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x10 Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x52 Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x1f Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x43 Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x20 Core/Src/main.o
+ .debug_macro   0x0000000000000000      0x1a3 Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x10 Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x1c Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x52 Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x40 Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x10 Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x40 Core/Src/main.o
+ .debug_macro   0x0000000000000000       0xd7 Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x1c Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x3d Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x16 Core/Src/main.o
+ .debug_macro   0x0000000000000000      0x145 Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x22 Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x28 Core/Src/main.o
+ .debug_macro   0x0000000000000000      0x1e1 Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x16 Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x35 Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x16 Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x29 Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x16 Core/Src/main.o
+ COMMON         0x0000000000000000        0x0 Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu.o
+ .text          0x0000000000000000        0x0 Core/Src/menu.o
+ .data          0x0000000000000000        0x0 Core/Src/menu.o
+ .bss           0x0000000000000000        0x0 Core/Src/menu.o
+ .debug_macro   0x0000000000000000      0xa54 Core/Src/menu.o
+ .debug_macro   0x0000000000000000       0x22 Core/Src/menu.o
+ .debug_macro   0x0000000000000000       0x40 Core/Src/menu.o
+ .debug_macro   0x0000000000000000       0x18 Core/Src/menu.o
+ .debug_macro   0x0000000000000000       0x94 Core/Src/menu.o
+ .debug_macro   0x0000000000000000       0x3c Core/Src/menu.o
+ .debug_macro   0x0000000000000000       0x34 Core/Src/menu.o
+ .debug_macro   0x0000000000000000       0x57 Core/Src/menu.o
+ .debug_macro   0x0000000000000000       0x52 Core/Src/menu.o
+ .debug_macro   0x0000000000000000       0x1f Core/Src/menu.o
+ .debug_macro   0x0000000000000000       0x43 Core/Src/menu.o
+ .debug_macro   0x0000000000000000       0x20 Core/Src/menu.o
+ .debug_macro   0x0000000000000000      0x1a3 Core/Src/menu.o
+ .debug_macro   0x0000000000000000      0x330 Core/Src/menu.o
+ .debug_macro   0x0000000000000000       0x35 Core/Src/menu.o
+ .debug_macro   0x0000000000000000       0x2e Core/Src/menu.o
+ .debug_macro   0x0000000000000000       0x22 Core/Src/menu.o
+ .debug_macro   0x0000000000000000       0xef Core/Src/menu.o
+ .debug_macro   0x0000000000000000       0x6a Core/Src/menu.o
+ .debug_macro   0x0000000000000000      0x1df Core/Src/menu.o
+ .debug_macro   0x0000000000000000       0x1c Core/Src/menu.o
+ .debug_macro   0x0000000000000000       0x22 Core/Src/menu.o
+ .debug_macro   0x0000000000000000      0xd23 Core/Src/menu.o
+ .debug_macro   0x0000000000000000     0xe09e Core/Src/menu.o
+ .debug_macro   0x0000000000000000       0x43 Core/Src/menu.o
+ .debug_macro   0x0000000000000000       0x2e Core/Src/menu.o
+ .debug_macro   0x0000000000000000       0x10 Core/Src/menu.o
+ .debug_macro   0x0000000000000000       0x10 Core/Src/menu.o
+ .debug_macro   0x0000000000000000       0x1c Core/Src/menu.o
+ .debug_macro   0x0000000000000000       0x52 Core/Src/menu.o
+ .debug_macro   0x0000000000000000       0x40 Core/Src/menu.o
+ .debug_macro   0x0000000000000000       0x10 Core/Src/menu.o
+ .debug_macro   0x0000000000000000       0x40 Core/Src/menu.o
+ .debug_macro   0x0000000000000000       0xd7 Core/Src/menu.o
+ .debug_macro   0x0000000000000000       0x1c Core/Src/menu.o
+ .debug_macro   0x0000000000000000       0x3d Core/Src/menu.o
+ .debug_macro   0x0000000000000000       0x16 Core/Src/menu.o
+ .debug_macro   0x0000000000000000      0x145 Core/Src/menu.o
+ .debug_macro   0x0000000000000000       0x22 Core/Src/menu.o
+ .debug_macro   0x0000000000000000       0x28 Core/Src/menu.o
+ .debug_macro   0x0000000000000000      0x1e1 Core/Src/menu.o
+ .debug_macro   0x0000000000000000       0x16 Core/Src/menu.o
+ .debug_macro   0x0000000000000000       0x16 Core/Src/menu.o
+ .debug_macro   0x0000000000000000       0x29 Core/Src/menu.o
+ .debug_macro   0x0000000000000000       0x16 Core/Src/menu.o
+ .debug_macro   0x0000000000000000       0x16 Core/Src/menu.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/menu_callbacks.o
+ .text          0x0000000000000000        0x0 Core/Src/menu_callbacks.o
+ .data          0x0000000000000000        0x0 Core/Src/menu_callbacks.o
+ .bss           0x0000000000000000        0x0 Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000      0xa54 Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000       0x2e Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000       0x22 Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000       0x22 Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000       0x8e Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000       0x51 Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000       0xef Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000       0x6a Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000      0x1df Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000       0x1c Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000       0x22 Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000       0xc3 Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000      0xd23 Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000     0xe09e Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000       0x43 Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000       0x2e Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000       0x46 Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000       0x18 Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000       0x3c Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000       0x34 Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000       0x16 Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000       0x97 Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000      0x32a Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000       0xfd Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000       0x10 Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000       0x52 Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000       0x1f Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000       0x43 Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000       0x20 Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000      0x1a3 Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000       0x10 Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000       0x1c Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000       0x52 Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000       0x40 Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000       0x10 Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000       0x40 Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000       0xd7 Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000       0x1c Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000       0x3d Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000       0x16 Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000      0x145 Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000       0x22 Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000       0x28 Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000      0x1e1 Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000       0x16 Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000       0x35 Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000       0x16 Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000       0x29 Core/Src/menu_callbacks.o
+ .debug_macro   0x0000000000000000       0x16 Core/Src/menu_callbacks.o
+ .group         0x0000000000000000        0xc Core/Src/spi.o
+ .group         0x0000000000000000        0xc Core/Src/spi.o
+ .group         0x0000000000000000        0xc Core/Src/spi.o
+ .group         0x0000000000000000        0xc Core/Src/spi.o
+ .group         0x0000000000000000        0xc Core/Src/spi.o
+ .group         0x0000000000000000        0xc Core/Src/spi.o
+ .group         0x0000000000000000        0xc Core/Src/spi.o
+ .group         0x0000000000000000        0xc Core/Src/spi.o
+ .group         0x0000000000000000        0xc Core/Src/spi.o
+ .group         0x0000000000000000        0xc Core/Src/spi.o
+ .group         0x0000000000000000        0xc Core/Src/spi.o
+ .group         0x0000000000000000        0xc Core/Src/spi.o
+ .group         0x0000000000000000        0xc Core/Src/spi.o
+ .group         0x0000000000000000        0xc Core/Src/spi.o
+ .group         0x0000000000000000        0xc Core/Src/spi.o
+ .group         0x0000000000000000        0xc Core/Src/spi.o
+ .text          0x0000000000000000        0x0 Core/Src/spi.o
+ .data          0x0000000000000000        0x0 Core/Src/spi.o
+ .bss           0x0000000000000000        0x0 Core/Src/spi.o
+ .debug_macro   0x0000000000000000      0xa54 Core/Src/spi.o
+ .debug_macro   0x0000000000000000       0x2e Core/Src/spi.o
+ .debug_macro   0x0000000000000000       0x22 Core/Src/spi.o
+ .debug_macro   0x0000000000000000       0x22 Core/Src/spi.o
+ .debug_macro   0x0000000000000000       0x8e Core/Src/spi.o
+ .debug_macro   0x0000000000000000       0x51 Core/Src/spi.o
+ .debug_macro   0x0000000000000000       0xef Core/Src/spi.o
+ .debug_macro   0x0000000000000000       0x6a Core/Src/spi.o
+ .debug_macro   0x0000000000000000      0x1df Core/Src/spi.o
+ .debug_macro   0x0000000000000000       0x1c Core/Src/spi.o
+ .debug_macro   0x0000000000000000       0x22 Core/Src/spi.o
+ .debug_macro   0x0000000000000000       0xc3 Core/Src/spi.o
+ .debug_macro   0x0000000000000000      0xd23 Core/Src/spi.o
+ .debug_macro   0x0000000000000000     0xe09e Core/Src/spi.o
+ .debug_macro   0x0000000000000000       0x43 Core/Src/spi.o
+ .debug_macro   0x0000000000000000       0x2e Core/Src/spi.o
+ .group         0x0000000000000000        0xc Core/Src/system_stm32f1xx.o
+ .group         0x0000000000000000        0xc Core/Src/system_stm32f1xx.o
+ .group         0x0000000000000000        0xc Core/Src/system_stm32f1xx.o
+ .group         0x0000000000000000        0xc Core/Src/system_stm32f1xx.o
+ .group         0x0000000000000000        0xc Core/Src/system_stm32f1xx.o
+ .group         0x0000000000000000        0xc Core/Src/system_stm32f1xx.o
+ .group         0x0000000000000000        0xc Core/Src/system_stm32f1xx.o
+ .group         0x0000000000000000        0xc Core/Src/system_stm32f1xx.o
+ .group         0x0000000000000000        0xc Core/Src/system_stm32f1xx.o
+ .group         0x0000000000000000        0xc Core/Src/system_stm32f1xx.o
+ .group         0x0000000000000000        0xc Core/Src/system_stm32f1xx.o
+ .group         0x0000000000000000        0xc Core/Src/system_stm32f1xx.o
+ .group         0x0000000000000000        0xc Core/Src/system_stm32f1xx.o
+ .group         0x0000000000000000        0xc Core/Src/system_stm32f1xx.o
+ .group         0x0000000000000000        0xc Core/Src/system_stm32f1xx.o
+ .text          0x0000000000000000        0x0 Core/Src/system_stm32f1xx.o
+ .data          0x0000000000000000        0x0 Core/Src/system_stm32f1xx.o
+ .bss           0x0000000000000000        0x0 Core/Src/system_stm32f1xx.o
+ .data.SystemCoreClock
+                0x0000000000000000        0x4 Core/Src/system_stm32f1xx.o
+ .rodata.AHBPrescTable
+                0x0000000000000000       0x10 Core/Src/system_stm32f1xx.o
+ .rodata.APBPrescTable
+                0x0000000000000000        0x8 Core/Src/system_stm32f1xx.o
+ .text.SystemCoreClockUpdate
+                0x0000000000000000       0xd8 Core/Src/system_stm32f1xx.o
+ .debug_macro   0x0000000000000000      0xa54 Core/Src/system_stm32f1xx.o
+ .debug_macro   0x0000000000000000       0x2e Core/Src/system_stm32f1xx.o
+ .debug_macro   0x0000000000000000       0x22 Core/Src/system_stm32f1xx.o
+ .debug_macro   0x0000000000000000       0x22 Core/Src/system_stm32f1xx.o
+ .debug_macro   0x0000000000000000       0x8e Core/Src/system_stm32f1xx.o
+ .debug_macro   0x0000000000000000       0x51 Core/Src/system_stm32f1xx.o
+ .debug_macro   0x0000000000000000       0xef Core/Src/system_stm32f1xx.o
+ .debug_macro   0x0000000000000000       0x6a Core/Src/system_stm32f1xx.o
+ .debug_macro   0x0000000000000000      0x1df Core/Src/system_stm32f1xx.o
+ .debug_macro   0x0000000000000000       0x1c Core/Src/system_stm32f1xx.o
+ .debug_macro   0x0000000000000000       0x22 Core/Src/system_stm32f1xx.o
+ .debug_macro   0x0000000000000000       0xc3 Core/Src/system_stm32f1xx.o
+ .debug_macro   0x0000000000000000      0xd23 Core/Src/system_stm32f1xx.o
+ .debug_macro   0x0000000000000000     0xe09e Core/Src/system_stm32f1xx.o
+ .debug_macro   0x0000000000000000       0x43 Core/Src/system_stm32f1xx.o
+ .text          0x0000000000000000       0x14 Startup/startup_stm32f103xb.o
+ .data          0x0000000000000000        0x0 Startup/startup_stm32f103xb.o
+ .bss           0x0000000000000000        0x0 Startup/startup_stm32f103xb.o
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o)
+ .text.exit     0x0000000000000000       0x28 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000000       0x28 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x0000000000000000        0x4 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+ .data.impure_data
+                0x0000000000000000       0x60 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x0000000000000000        0x4 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memset.o)
+ .text.memset   0x0000000000000000       0x10 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000000       0x20 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libnosys.a(_exit.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libnosys.a(_exit.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libnosys.a(_exit.o)
+ .text._exit    0x0000000000000000        0x2 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libnosys.a(_exit.o)
+ .debug_frame   0x0000000000000000       0x20 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libnosys.a(_exit.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
+ .eh_frame      0x0000000000000000        0x4 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
+ .ARM.attributes
+                0x0000000000000000       0x2d c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x0000000020000000 0x0000000000005000 xrw
+FLASH            0x0000000008000000 0x0000000000010000 xr
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+LOAD c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+LOAD c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+LOAD Core/Src/Fonts.o
+LOAD Core/Src/SSD1331.o
+LOAD Core/Src/encoder.o
+LOAD Core/Src/gpio_f1.o
+LOAD Core/Src/i2c.o
+LOAD Core/Src/main.o
+LOAD Core/Src/menu.o
+LOAD Core/Src/menu_callbacks.o
+LOAD Core/Src/spi.o
+LOAD Core/Src/system_stm32f1xx.o
+LOAD Startup/startup_stm32f103xb.o
+START GROUP
+LOAD c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a
+LOAD c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libm.a
+END GROUP
+START GROUP
+LOAD c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a
+LOAD c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a
+LOAD c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a
+LOAD c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libnosys.a
+END GROUP
+START GROUP
+LOAD c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a
+LOAD c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a
+LOAD c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libnosys.a
+END GROUP
+LOAD c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
+LOAD c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+                0x0000000020005000                _estack = (ORIGIN (RAM) + LENGTH (RAM))
+                0x0000000000000200                _Min_Heap_Size = 0x200
+                0x0000000000000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x0000000008000000      0x10c
+                0x0000000008000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x0000000008000000      0x10c Startup/startup_stm32f103xb.o
+                0x0000000008000000                g_pfnVectors
+                0x000000000800010c                . = ALIGN (0x4)
+
+.text           0x000000000800010c      0xe6c
+                0x000000000800010c                . = ALIGN (0x4)
+ *(.text)
+ .text          0x000000000800010c       0x40 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+ *(.text*)
+ .text.ssd1331_write_byte
+                0x000000000800014c       0x64 Core/Src/SSD1331.o
+ .text.ssd1331_draw_point
+                0x00000000080001b0       0x78 Core/Src/SSD1331.o
+                0x00000000080001b0                ssd1331_draw_point
+ .text.ssd1331_display_char
+                0x0000000008000228       0xdc Core/Src/SSD1331.o
+                0x0000000008000228                ssd1331_display_char
+ .text.ssd1331_display_string
+                0x0000000008000304       0x92 Core/Src/SSD1331.o
+                0x0000000008000304                ssd1331_display_string
+ .text.ssd1331_clear_screen
+                0x0000000008000396       0x46 Core/Src/SSD1331.o
+                0x0000000008000396                ssd1331_clear_screen
+ .text.ssd1331_init
+                0x00000000080003dc      0x164 Core/Src/SSD1331.o
+                0x00000000080003dc                ssd1331_init
+ .text.__NVIC_EnableIRQ
+                0x0000000008000540       0x38 Core/Src/encoder.o
+ .text.encoder_init
+                0x0000000008000578      0x11c Core/Src/encoder.o
+                0x0000000008000578                encoder_init
+ .text.EXTI9_5_IRQHandler
+                0x0000000008000694       0x50 Core/Src/encoder.o
+                0x0000000008000694                EXTI9_5_IRQHandler
+ .text.EXTI15_10_IRQHandler
+                0x00000000080006e4       0x54 Core/Src/encoder.o
+                0x00000000080006e4                EXTI15_10_IRQHandler
+ .text.gpio_pin_cfg
+                0x0000000008000738       0x6c Core/Src/gpio_f1.o
+                0x0000000008000738                gpio_pin_cfg
+ .text.i2c_init
+                0x00000000080007a4       0x70 Core/Src/i2c.o
+                0x00000000080007a4                i2c_init
+ .text.i2c_transfer
+                0x0000000008000814       0xc0 Core/Src/i2c.o
+                0x0000000008000814                i2c_transfer
+ .text.main     0x00000000080008d4       0x1c Core/Src/main.o
+                0x00000000080008d4                main
+ .text.menu_refresh
+                0x00000000080008f0       0xf0 Core/Src/menu.o
+                0x00000000080008f0                menu_refresh
+ .text.menu_get_index
+                0x00000000080009e0       0x48 Core/Src/menu.o
+                0x00000000080009e0                menu_get_index
+ .text.menu_get_level
+                0x0000000008000a28       0x3c Core/Src/menu.o
+                0x0000000008000a28                menu_get_level
+ .text.menu_next
+                0x0000000008000a64       0x84 Core/Src/menu.o
+                0x0000000008000a64                menu_next
+ .text.menu_prev
+                0x0000000008000ae8       0x78 Core/Src/menu.o
+                0x0000000008000ae8                menu_prev
+ .text.menu_enter
+                0x0000000008000b60       0x7c Core/Src/menu.o
+                0x0000000008000b60                menu_enter
+ .text.menu_back
+                0x0000000008000bdc       0x70 Core/Src/menu.o
+                0x0000000008000bdc                menu_back
+ .text.rmf_fm_func
+                0x0000000008000c4c       0x18 Core/Src/menu_callbacks.o
+                0x0000000008000c4c                rmf_fm_func
+ .text.radio_krakow_func
+                0x0000000008000c64       0x18 Core/Src/menu_callbacks.o
+                0x0000000008000c64                radio_krakow_func
+ .text.radio_zet_func
+                0x0000000008000c7c       0x18 Core/Src/menu_callbacks.o
+                0x0000000008000c7c                radio_zet_func
+ .text.radio_plus_func
+                0x0000000008000c94       0x18 Core/Src/menu_callbacks.o
+                0x0000000008000c94                radio_plus_func
+ .text.radio_program1_func
+                0x0000000008000cac       0x18 Core/Src/menu_callbacks.o
+                0x0000000008000cac                radio_program1_func
+ .text.radio_program3_func
+                0x0000000008000cc4       0x18 Core/Src/menu_callbacks.o
+                0x0000000008000cc4                radio_program3_func
+ .text.glosnosc_6_func
+                0x0000000008000cdc       0x18 Core/Src/menu_callbacks.o
+                0x0000000008000cdc                glosnosc_6_func
+ .text.glosnosc_20_func
+                0x0000000008000cf4       0x18 Core/Src/menu_callbacks.o
+                0x0000000008000cf4                glosnosc_20_func
+ .text.glosnosc_30_func
+                0x0000000008000d0c       0x18 Core/Src/menu_callbacks.o
+                0x0000000008000d0c                glosnosc_30_func
+ .text.glosnosc_50_func
+                0x0000000008000d24       0x18 Core/Src/menu_callbacks.o
+                0x0000000008000d24                glosnosc_50_func
+ .text.glosnosc_60_func
+                0x0000000008000d3c       0x18 Core/Src/menu_callbacks.o
+                0x0000000008000d3c                glosnosc_60_func
+ .text.glosnosc_73_func
+                0x0000000008000d54       0x18 Core/Src/menu_callbacks.o
+                0x0000000008000d54                glosnosc_73_func
+ .text.glosnosc_86_func
+                0x0000000008000d6c       0x18 Core/Src/menu_callbacks.o
+                0x0000000008000d6c                glosnosc_86_func
+ .text.wylacz_func
+                0x0000000008000d84       0x18 Core/Src/menu_callbacks.o
+                0x0000000008000d84                wylacz_func
+ .text.wlacz_func
+                0x0000000008000d9c       0x18 Core/Src/menu_callbacks.o
+                0x0000000008000d9c                wlacz_func
+ .text.spi_init
+                0x0000000008000db4       0x6c Core/Src/spi.o
+                0x0000000008000db4                spi_init
+ .text.spi_rw   0x0000000008000e20       0x44 Core/Src/spi.o
+                0x0000000008000e20                spi_rw
+ .text.SystemInit
+                0x0000000008000e64       0x68 Core/Src/system_stm32f1xx.o
+                0x0000000008000e64                SystemInit
+ .text.Reset_Handler
+                0x0000000008000ecc       0x48 Startup/startup_stm32f103xb.o
+                0x0000000008000ecc                Reset_Handler
+ .text.Default_Handler
+                0x0000000008000f14        0x2 Startup/startup_stm32f103xb.o
+                0x0000000008000f14                RTC_Alarm_IRQHandler
+                0x0000000008000f14                EXTI2_IRQHandler
+                0x0000000008000f14                DebugMon_Handler
+                0x0000000008000f14                TIM1_CC_IRQHandler
+                0x0000000008000f14                HardFault_Handler
+                0x0000000008000f14                SysTick_Handler
+                0x0000000008000f14                PVD_IRQHandler
+                0x0000000008000f14                PendSV_Handler
+                0x0000000008000f14                NMI_Handler
+                0x0000000008000f14                EXTI3_IRQHandler
+                0x0000000008000f14                EXTI0_IRQHandler
+                0x0000000008000f14                I2C2_EV_IRQHandler
+                0x0000000008000f14                UsageFault_Handler
+                0x0000000008000f14                ADC1_2_IRQHandler
+                0x0000000008000f14                SPI1_IRQHandler
+                0x0000000008000f14                TAMPER_IRQHandler
+                0x0000000008000f14                DMA1_Channel4_IRQHandler
+                0x0000000008000f14                USART3_IRQHandler
+                0x0000000008000f14                RTC_IRQHandler
+                0x0000000008000f14                DMA1_Channel7_IRQHandler
+                0x0000000008000f14                CAN1_RX1_IRQHandler
+                0x0000000008000f14                TIM4_IRQHandler
+                0x0000000008000f14                I2C1_EV_IRQHandler
+                0x0000000008000f14                DMA1_Channel6_IRQHandler
+                0x0000000008000f14                TIM3_IRQHandler
+                0x0000000008000f14                RCC_IRQHandler
+                0x0000000008000f14                TIM1_TRG_COM_IRQHandler
+                0x0000000008000f14                DMA1_Channel1_IRQHandler
+                0x0000000008000f14                Default_Handler
+                0x0000000008000f14                SPI2_IRQHandler
+                0x0000000008000f14                MemManage_Handler
+                0x0000000008000f14                SVC_Handler
+                0x0000000008000f14                DMA1_Channel5_IRQHandler
+                0x0000000008000f14                EXTI4_IRQHandler
+                0x0000000008000f14                USB_LP_CAN1_RX0_IRQHandler
+                0x0000000008000f14                USB_HP_CAN1_TX_IRQHandler
+                0x0000000008000f14                DMA1_Channel3_IRQHandler
+                0x0000000008000f14                TIM1_UP_IRQHandler
+                0x0000000008000f14                WWDG_IRQHandler
+                0x0000000008000f14                TIM2_IRQHandler
+                0x0000000008000f14                TIM1_BRK_IRQHandler
+                0x0000000008000f14                EXTI1_IRQHandler
+                0x0000000008000f14                USART2_IRQHandler
+                0x0000000008000f14                I2C2_ER_IRQHandler
+                0x0000000008000f14                DMA1_Channel2_IRQHandler
+                0x0000000008000f14                CAN1_SCE_IRQHandler
+                0x0000000008000f14                FLASH_IRQHandler
+                0x0000000008000f14                BusFault_Handler
+                0x0000000008000f14                USART1_IRQHandler
+                0x0000000008000f14                I2C1_ER_IRQHandler
+                0x0000000008000f14                USBWakeUp_IRQHandler
+ *fill*         0x0000000008000f16        0x2 
+ .text.__libc_init_array
+                0x0000000008000f18       0x48 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-init.o)
+                0x0000000008000f18                __libc_init_array
+ *(.glue_7)
+ .glue_7        0x0000000008000f60        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000008000f60        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x0000000008000f60        0x0 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+ *(.init)
+ .init          0x0000000008000f60        0x4 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+                0x0000000008000f60                _init
+ .init          0x0000000008000f64        0x8 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+ *(.fini)
+ .fini          0x0000000008000f6c        0x4 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+                0x0000000008000f6c                _fini
+ .fini          0x0000000008000f70        0x8 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+                0x0000000008000f78                . = ALIGN (0x4)
+                0x0000000008000f78                _etext = .
+
+.vfp11_veneer   0x0000000008000f78        0x0
+ .vfp11_veneer  0x0000000008000f78        0x0 linker stubs
+
+.v4_bx          0x0000000008000f78        0x0
+ .v4_bx         0x0000000008000f78        0x0 linker stubs
+
+.iplt           0x0000000008000f78        0x0
+ .iplt          0x0000000008000f78        0x0 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+
+.rodata         0x0000000008000f78      0xb54
+                0x0000000008000f78                . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x0000000008000f78       0xb3 Core/Src/menu.o
+ *(.rodata*)
+ *fill*         0x000000000800102b        0x1 
+ .rodata.c_chFont1206
+                0x000000000800102c      0x474 Core/Src/Fonts.o
+                0x000000000800102c                c_chFont1206
+ .rodata.c_chFont1608
+                0x00000000080014a0      0x5f0 Core/Src/Fonts.o
+                0x00000000080014a0                c_chFont1608
+ .rodata.konfiguracja_on
+                0x0000000008001a90        0x3 Core/Src/menu_callbacks.o
+                0x0000000008001a90                konfiguracja_on
+ *fill*         0x0000000008001a93        0x1 
+ .rodata.konfiguracja_off
+                0x0000000008001a94        0x3 Core/Src/menu_callbacks.o
+                0x0000000008001a94                konfiguracja_off
+ *fill*         0x0000000008001a97        0x1 
+ .rodata.rmf_fm
+                0x0000000008001a98        0x3 Core/Src/menu_callbacks.o
+                0x0000000008001a98                rmf_fm
+ *fill*         0x0000000008001a9b        0x1 
+ .rodata.radio_krakow
+                0x0000000008001a9c        0x3 Core/Src/menu_callbacks.o
+                0x0000000008001a9c                radio_krakow
+ *fill*         0x0000000008001a9f        0x1 
+ .rodata.radio_zet
+                0x0000000008001aa0        0x3 Core/Src/menu_callbacks.o
+                0x0000000008001aa0                radio_zet
+ *fill*         0x0000000008001aa3        0x1 
+ .rodata.radio_plus
+                0x0000000008001aa4        0x3 Core/Src/menu_callbacks.o
+                0x0000000008001aa4                radio_plus
+ *fill*         0x0000000008001aa7        0x1 
+ .rodata.radio_program1
+                0x0000000008001aa8        0x3 Core/Src/menu_callbacks.o
+                0x0000000008001aa8                radio_program1
+ *fill*         0x0000000008001aab        0x1 
+ .rodata.radio_program3
+                0x0000000008001aac        0x3 Core/Src/menu_callbacks.o
+                0x0000000008001aac                radio_program3
+ *fill*         0x0000000008001aaf        0x1 
+ .rodata.glosnosc_6
+                0x0000000008001ab0        0x3 Core/Src/menu_callbacks.o
+                0x0000000008001ab0                glosnosc_6
+ *fill*         0x0000000008001ab3        0x1 
+ .rodata.glosnosc_20
+                0x0000000008001ab4        0x3 Core/Src/menu_callbacks.o
+                0x0000000008001ab4                glosnosc_20
+ *fill*         0x0000000008001ab7        0x1 
+ .rodata.glosnosc_30
+                0x0000000008001ab8        0x3 Core/Src/menu_callbacks.o
+                0x0000000008001ab8                glosnosc_30
+ *fill*         0x0000000008001abb        0x1 
+ .rodata.glosnosc_50
+                0x0000000008001abc        0x3 Core/Src/menu_callbacks.o
+                0x0000000008001abc                glosnosc_50
+ *fill*         0x0000000008001abf        0x1 
+ .rodata.glosnosc_60
+                0x0000000008001ac0        0x3 Core/Src/menu_callbacks.o
+                0x0000000008001ac0                glosnosc_60
+ *fill*         0x0000000008001ac3        0x1 
+ .rodata.glosnosc_73
+                0x0000000008001ac4        0x3 Core/Src/menu_callbacks.o
+                0x0000000008001ac4                glosnosc_73
+ *fill*         0x0000000008001ac7        0x1 
+ .rodata.glosnosc_86
+                0x0000000008001ac8        0x3 Core/Src/menu_callbacks.o
+                0x0000000008001ac8                glosnosc_86
+                0x0000000008001acc                . = ALIGN (0x4)
+ *fill*         0x0000000008001acb        0x1 
+
+.rel.dyn        0x0000000008001acc        0x0
+ .rel.iplt      0x0000000008001acc        0x0 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+
+.ARM.extab      0x0000000008001acc        0x0
+                0x0000000008001acc                . = ALIGN (0x4)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0000000008001acc                . = ALIGN (0x4)
+
+.ARM            0x0000000008001acc        0x0
+                0x0000000008001acc                . = ALIGN (0x4)
+                0x0000000008001acc                __exidx_start = .
+ *(.ARM.exidx*)
+                0x0000000008001acc                __exidx_end = .
+                0x0000000008001acc                . = ALIGN (0x4)
+
+.preinit_array  0x0000000008001acc        0x0
+                0x0000000008001acc                . = ALIGN (0x4)
+                0x0000000008001acc                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x0000000008001acc                PROVIDE (__preinit_array_end = .)
+                0x0000000008001acc                . = ALIGN (0x4)
+
+.init_array     0x0000000008001acc        0x4
+                0x0000000008001acc                . = ALIGN (0x4)
+                0x0000000008001acc                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x0000000008001acc        0x4 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+                0x0000000008001ad0                PROVIDE (__init_array_end = .)
+                0x0000000008001ad0                . = ALIGN (0x4)
+
+.fini_array     0x0000000008001ad0        0x4
+                0x0000000008001ad0                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x0000000008001ad0        0x4 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+                [!provide]                        PROVIDE (__fini_array_end = .)
+                0x0000000008001ad4                . = ALIGN (0x4)
+                0x0000000008001ad4                _sidata = LOADADDR (.data)
+
+.data           0x0000000020000000      0x19c load address 0x0000000008001ad4
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.menu1    0x0000000020000000       0x18 Core/Src/menu.o
+                0x0000000020000000                menu1
+ .data.sub_menu1_1
+                0x0000000020000018       0x18 Core/Src/menu.o
+                0x0000000020000018                sub_menu1_1
+ .data.sub_menu1_2
+                0x0000000020000030       0x18 Core/Src/menu.o
+                0x0000000020000030                sub_menu1_2
+ .data.sub_menu1_3
+                0x0000000020000048       0x18 Core/Src/menu.o
+                0x0000000020000048                sub_menu1_3
+ .data.sub_menu1_4
+                0x0000000020000060       0x18 Core/Src/menu.o
+                0x0000000020000060                sub_menu1_4
+ .data.sub_menu1_5
+                0x0000000020000078       0x18 Core/Src/menu.o
+                0x0000000020000078                sub_menu1_5
+ .data.sub_menu1_6
+                0x0000000020000090       0x18 Core/Src/menu.o
+                0x0000000020000090                sub_menu1_6
+ .data.menu2    0x00000000200000a8       0x18 Core/Src/menu.o
+                0x00000000200000a8                menu2
+ .data.sub_menu2_1
+                0x00000000200000c0       0x18 Core/Src/menu.o
+                0x00000000200000c0                sub_menu2_1
+ .data.sub_menu2_2
+                0x00000000200000d8       0x18 Core/Src/menu.o
+                0x00000000200000d8                sub_menu2_2
+ .data.sub_menu2_3
+                0x00000000200000f0       0x18 Core/Src/menu.o
+                0x00000000200000f0                sub_menu2_3
+ .data.sub_menu2_4
+                0x0000000020000108       0x18 Core/Src/menu.o
+                0x0000000020000108                sub_menu2_4
+ .data.sub_menu2_5
+                0x0000000020000120       0x18 Core/Src/menu.o
+                0x0000000020000120                sub_menu2_5
+ .data.sub_menu2_6
+                0x0000000020000138       0x18 Core/Src/menu.o
+                0x0000000020000138                sub_menu2_6
+ .data.sub_menu2_7
+                0x0000000020000150       0x18 Core/Src/menu.o
+                0x0000000020000150                sub_menu2_7
+ .data.menu3    0x0000000020000168       0x18 Core/Src/menu.o
+                0x0000000020000168                menu3
+ .data.menu4    0x0000000020000180       0x18 Core/Src/menu.o
+                0x0000000020000180                menu4
+ .data.currentPointer
+                0x0000000020000198        0x4 Core/Src/menu.o
+                0x0000000020000198                currentPointer
+ *(.RamFunc)
+ *(.RamFunc*)
+                0x000000002000019c                . = ALIGN (0x4)
+                0x000000002000019c                _edata = .
+
+.igot.plt       0x000000002000019c        0x0 load address 0x0000000008001c70
+ .igot.plt      0x000000002000019c        0x0 c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+                0x000000002000019c                . = ALIGN (0x4)
+
+.bss            0x000000002000019c       0x20 load address 0x0000000008001c70
+                0x000000002000019c                _sbss = .
+                0x000000002000019c                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x000000002000019c       0x1c c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x00000000200001b8        0x4 Core/Src/menu.o
+                0x00000000200001b8                lcd_row_pos_level_1
+                0x00000000200001b9                lcd_row_pos_level_2
+                0x00000000200001ba                menu_index
+                0x00000000200001bb                lcd_row_pos
+                0x00000000200001bc                . = ALIGN (0x4)
+                0x00000000200001bc                _ebss = .
+                0x00000000200001bc                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x00000000200001bc      0x604 load address 0x0000000008001c70
+                0x00000000200001c0                . = ALIGN (0x8)
+ *fill*         0x00000000200001bc        0x4 
+                [!provide]                        PROVIDE (end = .)
+                [!provide]                        PROVIDE (_end = .)
+                0x00000000200003c0                . = (. + _Min_Heap_Size)
+ *fill*         0x00000000200001c0      0x200 
+                0x00000000200007c0                . = (. + _Min_Stack_Size)
+ *fill*         0x00000000200003c0      0x400 
+                0x00000000200007c0                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x0000000000000000       0x29
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000000000       0x1d c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+ .ARM.attributes
+                0x000000000000001d       0x2d c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+ .ARM.attributes
+                0x000000000000004a       0x33 Core/Src/Fonts.o
+ .ARM.attributes
+                0x000000000000007d       0x33 Core/Src/SSD1331.o
+ .ARM.attributes
+                0x00000000000000b0       0x33 Core/Src/encoder.o
+ .ARM.attributes
+                0x00000000000000e3       0x33 Core/Src/gpio_f1.o
+ .ARM.attributes
+                0x0000000000000116       0x33 Core/Src/i2c.o
+ .ARM.attributes
+                0x0000000000000149       0x33 Core/Src/main.o
+ .ARM.attributes
+                0x000000000000017c       0x33 Core/Src/menu.o
+ .ARM.attributes
+                0x00000000000001af       0x33 Core/Src/menu_callbacks.o
+ .ARM.attributes
+                0x00000000000001e2       0x33 Core/Src/spi.o
+ .ARM.attributes
+                0x0000000000000215       0x33 Core/Src/system_stm32f1xx.o
+ .ARM.attributes
+                0x0000000000000248       0x21 Startup/startup_stm32f103xb.o
+ .ARM.attributes
+                0x0000000000000269       0x2d c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000000000000296       0x1d c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+OUTPUT(STM32F1_radio.elf elf32-littlearm)
+
+.debug_info     0x0000000000000000     0x66e5
+ .debug_info    0x0000000000000000      0xa55 Core/Src/Fonts.o
+ .debug_info    0x0000000000000a55     0x147c Core/Src/SSD1331.o
+ .debug_info    0x0000000000001ed1     0x11f1 Core/Src/encoder.o
+ .debug_info    0x00000000000030c2      0x3ba Core/Src/gpio_f1.o
+ .debug_info    0x000000000000347c      0x4ef Core/Src/i2c.o
+ .debug_info    0x000000000000396b      0xb7c Core/Src/main.o
+ .debug_info    0x00000000000044e7      0xd66 Core/Src/menu.o
+ .debug_info    0x000000000000524d      0xbf8 Core/Src/menu_callbacks.o
+ .debug_info    0x0000000000005e45      0x499 Core/Src/spi.o
+ .debug_info    0x00000000000062de      0x3e5 Core/Src/system_stm32f1xx.o
+ .debug_info    0x00000000000066c3       0x22 Startup/startup_stm32f103xb.o
+
+.debug_abbrev   0x0000000000000000     0x1149
+ .debug_abbrev  0x0000000000000000      0x172 Core/Src/Fonts.o
+ .debug_abbrev  0x0000000000000172      0x2a0 Core/Src/SSD1331.o
+ .debug_abbrev  0x0000000000000412      0x27f Core/Src/encoder.o
+ .debug_abbrev  0x0000000000000691      0x139 Core/Src/gpio_f1.o
+ .debug_abbrev  0x00000000000007ca      0x151 Core/Src/i2c.o
+ .debug_abbrev  0x000000000000091b      0x1d8 Core/Src/main.o
+ .debug_abbrev  0x0000000000000af3      0x237 Core/Src/menu.o
+ .debug_abbrev  0x0000000000000d2a      0x1ad Core/Src/menu_callbacks.o
+ .debug_abbrev  0x0000000000000ed7      0x12c Core/Src/spi.o
+ .debug_abbrev  0x0000000000001003      0x134 Core/Src/system_stm32f1xx.o
+ .debug_abbrev  0x0000000000001137       0x12 Startup/startup_stm32f103xb.o
+
+.debug_aranges  0x0000000000000000      0x2b0
+ .debug_aranges
+                0x0000000000000000       0x18 Core/Src/Fonts.o
+ .debug_aranges
+                0x0000000000000018       0xa0 Core/Src/SSD1331.o
+ .debug_aranges
+                0x00000000000000b8       0x38 Core/Src/encoder.o
+ .debug_aranges
+                0x00000000000000f0       0x20 Core/Src/gpio_f1.o
+ .debug_aranges
+                0x0000000000000110       0x28 Core/Src/i2c.o
+ .debug_aranges
+                0x0000000000000138       0x20 Core/Src/main.o
+ .debug_aranges
+                0x0000000000000158       0x50 Core/Src/menu.o
+ .debug_aranges
+                0x00000000000001a8       0x90 Core/Src/menu_callbacks.o
+ .debug_aranges
+                0x0000000000000238       0x28 Core/Src/spi.o
+ .debug_aranges
+                0x0000000000000260       0x28 Core/Src/system_stm32f1xx.o
+ .debug_aranges
+                0x0000000000000288       0x28 Startup/startup_stm32f103xb.o
+
+.debug_macro    0x0000000000000000    0x12769
+ .debug_macro   0x0000000000000000      0x1da Core/Src/Fonts.o
+ .debug_macro   0x00000000000001da      0xa54 Core/Src/Fonts.o
+ .debug_macro   0x0000000000000c2e       0x22 Core/Src/Fonts.o
+ .debug_macro   0x0000000000000c50       0x40 Core/Src/Fonts.o
+ .debug_macro   0x0000000000000c90       0x18 Core/Src/Fonts.o
+ .debug_macro   0x0000000000000ca8       0x94 Core/Src/Fonts.o
+ .debug_macro   0x0000000000000d3c       0x3c Core/Src/Fonts.o
+ .debug_macro   0x0000000000000d78       0x34 Core/Src/Fonts.o
+ .debug_macro   0x0000000000000dac       0x16 Core/Src/Fonts.o
+ .debug_macro   0x0000000000000dc2       0x57 Core/Src/Fonts.o
+ .debug_macro   0x0000000000000e19       0x97 Core/Src/Fonts.o
+ .debug_macro   0x0000000000000eb0      0x330 Core/Src/Fonts.o
+ .debug_macro   0x00000000000011e0       0xfd Core/Src/Fonts.o
+ .debug_macro   0x00000000000012dd       0x10 Core/Src/Fonts.o
+ .debug_macro   0x00000000000012ed       0x52 Core/Src/Fonts.o
+ .debug_macro   0x000000000000133f       0x1f Core/Src/Fonts.o
+ .debug_macro   0x000000000000135e       0x43 Core/Src/Fonts.o
+ .debug_macro   0x00000000000013a1       0x20 Core/Src/Fonts.o
+ .debug_macro   0x00000000000013c1      0x1a3 Core/Src/Fonts.o
+ .debug_macro   0x0000000000001564       0x10 Core/Src/Fonts.o
+ .debug_macro   0x0000000000001574       0x6a Core/Src/Fonts.o
+ .debug_macro   0x00000000000015de       0x1c Core/Src/Fonts.o
+ .debug_macro   0x00000000000015fa       0x52 Core/Src/Fonts.o
+ .debug_macro   0x000000000000164c       0x40 Core/Src/Fonts.o
+ .debug_macro   0x000000000000168c       0x10 Core/Src/Fonts.o
+ .debug_macro   0x000000000000169c       0x40 Core/Src/Fonts.o
+ .debug_macro   0x00000000000016dc       0xd7 Core/Src/Fonts.o
+ .debug_macro   0x00000000000017b3       0x1c Core/Src/Fonts.o
+ .debug_macro   0x00000000000017cf       0x3d Core/Src/Fonts.o
+ .debug_macro   0x000000000000180c       0x16 Core/Src/Fonts.o
+ .debug_macro   0x0000000000001822      0x145 Core/Src/Fonts.o
+ .debug_macro   0x0000000000001967       0xef Core/Src/Fonts.o
+ .debug_macro   0x0000000000001a56      0x1df Core/Src/Fonts.o
+ .debug_macro   0x0000000000001c35       0x22 Core/Src/Fonts.o
+ .debug_macro   0x0000000000001c57       0x28 Core/Src/Fonts.o
+ .debug_macro   0x0000000000001c7f      0x3b4 Core/Src/SSD1331.o
+ .debug_macro   0x0000000000002033       0x2e Core/Src/SSD1331.o
+ .debug_macro   0x0000000000002061       0x22 Core/Src/SSD1331.o
+ .debug_macro   0x0000000000002083       0x8e Core/Src/SSD1331.o
+ .debug_macro   0x0000000000002111       0x51 Core/Src/SSD1331.o
+ .debug_macro   0x0000000000002162       0x1c Core/Src/SSD1331.o
+ .debug_macro   0x000000000000217e       0x22 Core/Src/SSD1331.o
+ .debug_macro   0x00000000000021a0       0xc3 Core/Src/SSD1331.o
+ .debug_macro   0x0000000000002263      0xd23 Core/Src/SSD1331.o
+ .debug_macro   0x0000000000002f86     0xe09e Core/Src/SSD1331.o
+ .debug_macro   0x0000000000011024       0x43 Core/Src/SSD1331.o
+ .debug_macro   0x0000000000011067       0x2e Core/Src/SSD1331.o
+ .debug_macro   0x0000000000011095       0x46 Core/Src/SSD1331.o
+ .debug_macro   0x00000000000110db      0x32a Core/Src/SSD1331.o
+ .debug_macro   0x0000000000011405      0x1e1 Core/Src/SSD1331.o
+ .debug_macro   0x00000000000115e6       0x16 Core/Src/SSD1331.o
+ .debug_macro   0x00000000000115fc       0x35 Core/Src/SSD1331.o
+ .debug_macro   0x0000000000011631       0x16 Core/Src/SSD1331.o
+ .debug_macro   0x0000000000011647       0x29 Core/Src/SSD1331.o
+ .debug_macro   0x0000000000011670       0x16 Core/Src/SSD1331.o
+ .debug_macro   0x0000000000011686      0x2ac Core/Src/encoder.o
+ .debug_macro   0x0000000000011932       0xcf Core/Src/gpio_f1.o
+ .debug_macro   0x0000000000011a01       0xd9 Core/Src/i2c.o
+ .debug_macro   0x0000000000011ada      0x2b6 Core/Src/main.o
+ .debug_macro   0x0000000000011d90       0x16 Core/Src/main.o
+ .debug_macro   0x0000000000011da6      0x2e9 Core/Src/menu.o
+ .debug_macro   0x000000000001208f      0x174 Core/Src/menu.o
+ .debug_macro   0x0000000000012203       0x10 Core/Src/menu.o
+ .debug_macro   0x0000000000012213       0x20 Core/Src/menu.o
+ .debug_macro   0x0000000000012233       0xbd Core/Src/menu.o
+ .debug_macro   0x00000000000122f0       0x1c Core/Src/menu.o
+ .debug_macro   0x000000000001230c      0x2b6 Core/Src/menu_callbacks.o
+ .debug_macro   0x00000000000125c2       0xd9 Core/Src/spi.o
+ .debug_macro   0x000000000001269b       0xce Core/Src/system_stm32f1xx.o
+
+.debug_line     0x0000000000000000     0x420b
+ .debug_line    0x0000000000000000      0x5b7 Core/Src/Fonts.o
+ .debug_line    0x00000000000005b7      0xa51 Core/Src/SSD1331.o
+ .debug_line    0x0000000000001008      0x748 Core/Src/encoder.o
+ .debug_line    0x0000000000001750      0x4a1 Core/Src/gpio_f1.o
+ .debug_line    0x0000000000001bf1      0x4ea Core/Src/i2c.o
+ .debug_line    0x00000000000020db      0x6f6 Core/Src/main.o
+ .debug_line    0x00000000000027d1      0x83c Core/Src/menu.o
+ .debug_line    0x000000000000300d      0x7fd Core/Src/menu_callbacks.o
+ .debug_line    0x000000000000380a      0x4c8 Core/Src/spi.o
+ .debug_line    0x0000000000003cd2      0x4bc Core/Src/system_stm32f1xx.o
+ .debug_line    0x000000000000418e       0x7d Startup/startup_stm32f103xb.o
+
+.debug_str      0x0000000000000000    0x5a369
+ .debug_str     0x0000000000000000     0x7f6f Core/Src/Fonts.o
+                                       0x81be (size before relaxing)
+ .debug_str     0x0000000000007f6f    0x51813 Core/Src/SSD1331.o
+                                      0x59aeb (size before relaxing)
+ .debug_str     0x0000000000059782      0x5a6 Core/Src/encoder.o
+                                      0x59a70 (size before relaxing)
+ .debug_str     0x0000000000059d28       0x50 Core/Src/gpio_f1.o
+                                      0x54641 (size before relaxing)
+ .debug_str     0x0000000000059d78       0x71 Core/Src/i2c.o
+                                      0x546b1 (size before relaxing)
+ .debug_str     0x0000000000059de9      0x15d Core/Src/main.o
+                                      0x59256 (size before relaxing)
+ .debug_str     0x0000000000059f46      0x1d5 Core/Src/menu.o
+                                      0x596c7 (size before relaxing)
+ .debug_str     0x000000000005a11b      0x10f Core/Src/menu_callbacks.o
+                                      0x5954f (size before relaxing)
+ .debug_str     0x000000000005a22a       0x22 Core/Src/spi.o
+                                      0x5469c (size before relaxing)
+ .debug_str     0x000000000005a24c       0xee Core/Src/system_stm32f1xx.o
+                                      0x5427f (size before relaxing)
+ .debug_str     0x000000000005a33a       0x2f Startup/startup_stm32f103xb.o
+                                         0x64 (size before relaxing)
+
+.comment        0x0000000000000000       0x7b
+ .comment       0x0000000000000000       0x7b Core/Src/Fonts.o
+                                         0x7c (size before relaxing)
+ .comment       0x000000000000007b       0x7c Core/Src/SSD1331.o
+ .comment       0x000000000000007b       0x7c Core/Src/encoder.o
+ .comment       0x000000000000007b       0x7c Core/Src/gpio_f1.o
+ .comment       0x000000000000007b       0x7c Core/Src/i2c.o
+ .comment       0x000000000000007b       0x7c Core/Src/main.o
+ .comment       0x000000000000007b       0x7c Core/Src/menu.o
+ .comment       0x000000000000007b       0x7c Core/Src/menu_callbacks.o
+ .comment       0x000000000000007b       0x7c Core/Src/spi.o
+ .comment       0x000000000000007b       0x7c Core/Src/system_stm32f1xx.o
+
+.debug_ranges   0x0000000000000000      0x200
+ .debug_ranges  0x0000000000000000       0x90 Core/Src/SSD1331.o
+ .debug_ranges  0x0000000000000090       0x28 Core/Src/encoder.o
+ .debug_ranges  0x00000000000000b8       0x10 Core/Src/gpio_f1.o
+ .debug_ranges  0x00000000000000c8       0x18 Core/Src/i2c.o
+ .debug_ranges  0x00000000000000e0       0x10 Core/Src/main.o
+ .debug_ranges  0x00000000000000f0       0x40 Core/Src/menu.o
+ .debug_ranges  0x0000000000000130       0x80 Core/Src/menu_callbacks.o
+ .debug_ranges  0x00000000000001b0       0x18 Core/Src/spi.o
+ .debug_ranges  0x00000000000001c8       0x18 Core/Src/system_stm32f1xx.o
+ .debug_ranges  0x00000000000001e0       0x20 Startup/startup_stm32f103xb.o
+
+.debug_frame    0x0000000000000000      0x784
+ .debug_frame   0x0000000000000000      0x29c Core/Src/SSD1331.o
+ .debug_frame   0x000000000000029c       0xac Core/Src/encoder.o
+ .debug_frame   0x0000000000000348       0x38 Core/Src/gpio_f1.o
+ .debug_frame   0x0000000000000380       0x54 Core/Src/i2c.o
+ .debug_frame   0x00000000000003d4       0x2c Core/Src/main.o
+ .debug_frame   0x0000000000000400       0xf8 Core/Src/menu.o
+ .debug_frame   0x00000000000004f8      0x1b4 Core/Src/menu_callbacks.o
+ .debug_frame   0x00000000000006ac       0x54 Core/Src/spi.o
+ .debug_frame   0x0000000000000700       0x58 Core/Src/system_stm32f1xx.o
+ .debug_frame   0x0000000000000758       0x2c c:/st/stm32cubeide_1.5.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-init.o)
